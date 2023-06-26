@@ -16,7 +16,7 @@ Large Batch Optimizer with Sparse Communication
 - [Prerequisites](#prerequisites)
 - [Code](#code)
 - [Training](#training)
-- [Known Issues and TODOs](#known-issues-and-todos)
+- [Todos](#todos)
 
 ## Prerequisites
 
@@ -61,7 +61,7 @@ Cifar10 results (256 batch size * 4 GPUs):
 
 ## License
 
-This repository is released under the Apache license. See [LICENSE](LICENSE) for additional details.
+See [LICENSE](LICENSE) for additional details.
 
 
 ## Acknowledgement
